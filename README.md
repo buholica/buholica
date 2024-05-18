@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Oksana
 
 # 💫 About Me:
-👩‍💻I am a passionate Manual QA Engineer dedicated to continuous learning and applying new knowledge in practical scenarios. <be>
-🐍Currently, I'm expanding my skill set by learning Python, which offers extensive opportunities for automated testing, development, and data analysis. <be>
-🤖My primary focus is on developing and automating tests to ensure robust and efficient software solutions. 
+👩‍💻 I am a passionate Manual QA Engineer dedicated to continuous learning and applying new knowledge in practical scenarios. <br />
+🐍 Currently, I'm expanding my skill set by learning Python, which offers extensive opportunities for automated testing, development, and data analysis. <br />
+🤖 My primary focus is on developing and automating tests to ensure robust and efficient software solutions. 
 
 
 ## 🌐 Socials:
