@@ -3,7 +3,7 @@
 # 💫 About Me:
 👩‍💻 I am a passionate Manual QA Engineer dedicated to continuous learning and applying new knowledge in practical scenarios. <br />
 🐍 Currently, I'm expanding my skill set by learning Python, which offers extensive opportunities for automated testing, development, and data analysis. <br />
-🤖 My primary focus is on developing as I enjoy creating something new and finding solutions 😂
+🤖 My primary focus is on developing as I enjoy creating something new and finding solutions
 
 
 ## 🌐 Socials:
